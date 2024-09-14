@@ -8,6 +8,9 @@ I'm currently enrolled in Udacity Front End Web Developer Nanodegree program. �
 
 I'm always open to new opportunities and collaborations, so feel free to reach out to me if you have any projects in mind. 👯
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=jesustellor&theme=dark&hide_border=false)<br/>
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
